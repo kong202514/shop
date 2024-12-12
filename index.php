@@ -22,9 +22,14 @@
 
 
         <?php
-        echo "wwww!";
+        echo "php >>>>>>>>>>>>acho !";
         ?>
-        header
+
+
+        <center>
+            <h1>hello word</h1>
+
+        </center>
     </body>
 
 

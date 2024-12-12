@@ -8,7 +8,9 @@
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <!-- <link rel="stylesheet" href="index.css"> -->
+
+    <link rel="stylesheet" href="index.css">
+
 
 </head>
 
@@ -29,19 +31,19 @@
 
                     <!-- เมนู   workout  -->
                     <li class="nav-item">
-                        <a class="nav-link  active" href="#" aria-disabled="true">workout </a>
+                        <a class="nav-link  active" href="#" aria-disabled="true">test </a>
                     </li>
 
                     <!-- เมนู   terminal  -->
                     <li class="nav-item">
-                        <a class="nav-link  active" href="#" aria-disabled="true">terminal </a>
+                        <a class="nav-link  active" href="#" aria-disabled="true">test </a>
                     </li>
 
 
                     <!-- เมนู   test input text to firebase  -->
                     <li class="nav-item">
                         <a class="nav-link active  " href="#">
-                            test input text to firebase </a>
+                            test </a>
                     </li>
 
 
@@ -49,32 +51,27 @@
                     <!-- เมนู   color  -->
                     <li class="nav-item">
                         <a class="nav-link active" href="#">
-                            color </a>
+                            test </a>
                     </li>
 
 
                     <!-- เมนู   tool  -->
                     <li class="nav-item">
-                        <a class="nav-link  active" href="#" aria-disabled="true">tool</a>
+                        <a class="nav-link  active" href="#" aria-disabled="true">test</a>
                     </li>
 
 
 
                     <!-- เมนู   เมนูอื่นๆ  -->
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle active" href="#" data-bs-toggle="dropdown"
-                            aria-expanded="false">
-                            เมนูอื่นๆ
-                        </a>
-
-                        <!-- เมนู เมนูอื่นๆ  >>> dropdown  -->
-
+                    <div class="dropdown">
+                        <button class="btn btn-dark dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">test </button>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            <li><a class="dropdown-item" href="#">test</a></li>
+                            <li><a class="dropdown-item" href="#">test </a></li>
+                            <li><a class="dropdown-item" href="#">test </a></li>
                         </ul>
-                    </li>
+                    </div>
 
                 </ul>
 
