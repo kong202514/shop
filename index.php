@@ -13,23 +13,19 @@
     </script>
 
     <!-- tailwindcss -->
+    <!-- <script src="https://cdn.tailwindcss.com"></script> -->
 
     <body>
-        <?php 
-
-
-    include "header.php"
-    ?>
+        <?php     include "header.php"   ?>
 
 
 
 
         <?php
-    echo "wwww!";
-    ?>
+        echo "wwww!";
+        ?>
         header
     </body>
 
-    <!-- <script src="https://cdn.tailwindcss.com"></script> -->
 
     </html>
